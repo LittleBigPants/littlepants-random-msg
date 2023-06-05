@@ -1,6 +1,8 @@
 # littlepants-random-msg
 
-Whenever I start a new project, I don't know what to write for the first commit. After doing a “git init” there is technically nothing there...
+This package allows messages to be displayed randomly in the Terminal. It is a global package.
+
+It was developed in the NPM Course: Managing Packages and Dependencies in JavaScript by Platzi... and is my first package published in the npm package list
 
 ## Install
 
@@ -20,4 +22,4 @@ If someone wants to add or improve something, I invite you to collaborate direct
 
 # License
 
-funny-commit is released under the [MIT License](https://opensource.org/licenses/MIT).
+littlepants-random-msg is released under the [MIT License](https://opensource.org/licenses/MIT).
